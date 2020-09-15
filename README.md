@@ -8,7 +8,7 @@ Only the encrypted data are stored, which means that if someoene (even you) does
 
 # Demo
 
-! [Demo Gif] (/demo/demo.gif)
+![Demo Gif](/demo/demo.gif)
 
 # Libraries/Frameworks Used
 
